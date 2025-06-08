@@ -30,7 +30,7 @@ Also, make sure your system has a webcam.
 
 ---
 
-## 📁 Files
+## Files
 
 - main.py → The core face recognition script (your script above).
 - v.dat → Binary file that stores visitor info and image filenames.
@@ -38,7 +38,7 @@ Also, make sure your system has a webcam.
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 ### 1. **Training a New Visitor**
 If a visitor is not found in the database:
@@ -53,7 +53,7 @@ If a visitor is not found in the database:
 
 ---
 
-## ▶️ Usage
+## Usage
 
 ```bash
 python main.py
